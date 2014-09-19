@@ -1,0 +1,14 @@
+1
+# obstacle KAI
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+0.000000 0.000000
+10.000000 0.000000
+10.000000 10.000000
+0.000000 10.000000
+# initial configuration
+20.000000 60.000000 0.000000
