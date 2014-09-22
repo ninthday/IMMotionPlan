@@ -36,8 +36,7 @@ and open the template in the editor.
 
         <div class="container">
             <div class="col-md-9">
-                <h1>Bootstrap starter template</h1>
-                <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
+                <canvas width="400" height="400"></canvas>
             </div>
             <div class="col-md-3" style="padding-top: 20px;">
                 <div class="panel panel-default">
@@ -62,6 +61,7 @@ and open the template in the editor.
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <!-- Include all compiled plugins (below), or include individual files as needed -->
         <script src="resources/bootstrap-3.2/js/bootstrap.min.js"></script>
+        <script src="resources/jcanvas.min.js"></script>
         <script src="js/mp.js"></script>
     </body>
 </html>
